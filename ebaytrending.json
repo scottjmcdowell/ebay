@@ -1,0 +1,18 @@
+Content-Type: application/json
+...
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+    "updateDate": "2016-04-10T00:00:00.0Z",
+    "titleText": "Cub Cadet)",
+    "mainText": "Cub Cadet released new customization modules like cargo capacity and bumpers to their Challenger series. Searches for these rugged utility vehicles are on the rise for summer.",
+    "redirectionUrl": "https://www.ebay.com/sch/cub+cadet?&_trksid=p2245348.m3768.l6570&_trkparms=topicId%3D4242&_trksid=p2245348.m3768.l6569&_trkparms=topicId%3D4242"
+   },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "updateDate": "2016-04-10T00:00:00.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
+    "redirectionUrl": "https://www.amazon.com"
+  }
+]
